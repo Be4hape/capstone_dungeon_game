@@ -32,7 +32,7 @@ This project was built over 2 months as a team capstone, with clear division of 
 ---
 
 
-## 🧠 Git Repository Memory Usage
+## 🧠 Git Repository Memory Usage (git count-objects -vH)
 
 | 항목              | 값             |
 |-------------------|----------------|
