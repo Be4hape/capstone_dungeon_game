@@ -49,3 +49,18 @@ This project was built over 2 months as a team capstone, with clear division of 
 <img width="907" height="456" alt="image" src="https://github.com/user-attachments/assets/1773a0c0-c4aa-44df-80a7-2e840f28fcba" />
 
 <img width="940" height="506" alt="image" src="https://github.com/user-attachments/assets/d83516b1-b3f0-40ee-9c2d-e183fdf1ade7" />
+
+
+
+
+
+## Memory
+$ git count-objects -vH
+count: 13186
+size: 762.43 MiB
+in-pack: 3216
+packs: 4
+size-pack: 2.29 MiB
+prune-packable: 0
+garbage: 0
+size-garbage: 0 bytes
