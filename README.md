@@ -5,7 +5,7 @@ This project was built over 2 months as a team capstone, with clear division of 
 
 
 
-##Controls
+## 🎮 Controls
 
 | Input     | Action              |
 |-----------|---------------------|
@@ -14,7 +14,7 @@ This project was built over 2 months as a team capstone, with clear division of 
 
 ---
 
-##Team Roles
+## 👥 Team Roles
 
 | Member | Responsibility |
 |--------|----------------|
