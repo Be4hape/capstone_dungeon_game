@@ -54,13 +54,15 @@ This project was built over 2 months as a team capstone, with clear division of 
 
 
 
-## Memory
-$ git count-objects -vH
-count: 13186
-size: 762.43 MiB
-in-pack: 3216
-packs: 4
-size-pack: 2.29 MiB
-prune-packable: 0
-garbage: 0
-size-garbage: 0 bytes
+## 🧠 Git Repository Memory Usage
+
+| 항목              | 값             |
+|-------------------|----------------|
+| count             | 13,186         |
+| size              | 762.43 MiB     |
+| in-pack           | 3,216          |
+| packs             | 4              |
+| size-pack         | 2.29 MiB       |
+| prune-packable    | 0              |
+| garbage           | 0              |
+| size-garbage      | 0 bytes        |
