@@ -48,7 +48,7 @@ This project was built over 2 months as a team capstone, with clear division of 
 
 ## 🗓️ Development Duration
 
-> **2 months** (Planning, development, and testing, 25.04 ~ 25.06)
+> **2 months** (Planning, development, and testing, 25.04. ~ 25.06.)
 
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a1538bf0-5100-438c-ad1d-023e84d31364" />
